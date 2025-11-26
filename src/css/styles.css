@@ -101,19 +101,7 @@ button {
   flex-grow: 1;
 }
 
-.loader {
-  margin: 50px auto;
-  display: block;
-  color: #ffd2cb;
-  font-size: 10px;
-  width: 1em;
-  height: 1em;
-  border-radius: 50%;
-  position: relative;
-  text-indent: -9999em;
-  animation: mulShdSpin 1.3s infinite linear;
-  transform: translateZ(0);
-}
+
 
 .hidden {
   display: none;
